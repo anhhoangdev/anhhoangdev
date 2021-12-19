@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaptHoagg
-- 👀 I’m interested in Data Fields
+- 👀 I’m interested in Data Science Fields
 - 🌱 I’m currently learning Digital Business and Artificial Intelligence at the University of Economics and Laws
 
 <!---
